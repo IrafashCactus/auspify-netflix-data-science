@@ -1,0 +1,5 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,listed_in,duration_value,duration_unit,added_before_release
+s5965,TV Show,9-Feb,Unknown,Pakistan,3/20/2019,2018,TV-14,1 Season,"International TV Shows, TV Dramas",,,
+s5966,Movie,22-Jul,Paul Greengrass,Norway,10/10/2018,2018,R,144 min,"Dramas, Thrillers",,,
+s5967,Movie,15-Aug,Swapnaneel Jayakar,India,3/29/2019,2019,TV-14,124 min,"Comedies, Dramas, Independent Movies",,,
+s6530,Movie,Consequences,Ozan Açıktan,Turkey,2019-10-25 00:00:00,2014,TV-MA,106 min,"Dramas, International Movies, Thrillers",106.0,min,False
