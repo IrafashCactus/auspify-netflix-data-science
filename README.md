@@ -19,6 +19,18 @@ Install the project dependencies with:
 python -m pip install -r requirements.txt
 ```
 
+Data science internship project for Auspify Technologies, built on a public
+Netflix titles dataset (8,790 raw rows, 8,786 after cleaning). It covers four
+tasks: data cleaning, exploratory analysis, a metadata-based recommender and
+release-year trend scenarios.
+
+## How to run
+1. Install Python (Anaconda works) and open this folder in VS Code.
+2. Install the libraries: `python -m pip install -r requirements.txt`
+3. Run the notebooks in `notebooks/` in order: 01 first, because it creates
+   `data/processed/netflix_clean.csv`, which 02, 03 and 04 all read. In each
+   notebook, choose Restart, then Run All.
+
 Place the original dataset in `data/raw/`. Write cleaned outputs to `data/processed/`; do not edit the original file.
 ## Progress
 | Task | Topic | Status |
