@@ -20,3 +20,9 @@ python -m pip install -r requirements.txt
 ```
 
 Place the original dataset in `data/raw/`. Write cleaned outputs to `data/processed/`; do not edit the original file.
+## Progress
+| Task | Topic | Status |
+|------|-------|--------|
+| 1 | Data cleaning | Done: notebooks/01_data_cleaning.ipynb, docs/task1_cleaning_log.md |
+| 2 | Exploratory data analysis | Done: notebooks/02_eda.ipynb, docs/task2_eda_findings.md |
+| 4 | Trend prediction | Next |
